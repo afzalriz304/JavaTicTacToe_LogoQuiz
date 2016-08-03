@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+F:\CodingPrograms\Swing\Swing\.metadata\.plugins\org.eclipse.jdt.core
+994060723.index
